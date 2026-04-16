@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am currently pursuing b.tech 3rd year in artificial intelligencer and machine learning<br>i am learning python now and i am also working on projects using python<br>i had completed sql,c and html<br>
+## 👋 About Me
+
+I am currently pursuing my B.Tech (3rd year) in Artificial Intelligence and Machine Learning at Lendi Institute of Engineering and Technology.
+
+I have strong problem-solving skills along with solid technical knowledge in programming and project development. I am also good at communication and teamwork, which helps me collaborate effectively in group environments.
+
+So far, I have worked on several academic projects and have actively participated in hackathons, which have helped me strengthen both my technical and practical skills.
+
 
 
 ## 🌐 Socials:
