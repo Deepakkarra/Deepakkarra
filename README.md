@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me
+
 
 I am currently pursuing my B.Tech (3rd year) in Artificial Intelligence and Machine Learning at Lendi Institute of Engineering and Technology.
 
